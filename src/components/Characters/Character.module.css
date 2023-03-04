@@ -1,0 +1,21 @@
+.character {
+  margin: 5px;
+  padding: 5px;
+  /* background-color: #be8111; */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 1px;
+  text-align: left;
+  /* color: white; */
+  max-width: 250px;
+}
+
+.character h2 {
+  font-size: 2rem;
+  /* color: #c0f0ef; */
+}
+
+.character h3 {
+  /* color: #eccf77; */
+  margin: 0;
+  font-size: 1rem;
+}

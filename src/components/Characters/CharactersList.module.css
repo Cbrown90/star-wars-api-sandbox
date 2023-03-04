@@ -1,0 +1,12 @@
+.characters-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.character-chunk {
+  /* background-color: #11be2b; */
+  margin: 0;
+  padding: 0;
+  max-width: 250px;
+}
